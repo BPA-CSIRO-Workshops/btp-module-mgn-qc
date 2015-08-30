@@ -1,4 +1,4 @@
-This repository is a template for developing your own Bioinformatics Training Platform (BTP) workshop module.
+<<<<<<< HEAD
 Therefore, if you haven't already, you should head over to the 
 [btp-workshop-template](https://github.com/BPA-CSIRO-Workshops/btp-workshop-template) repository and follow one of the
 [workflows](https://github.com/BPA-CSIRO-Workshops/btp-workshop-template#general-workflows) documented there.
